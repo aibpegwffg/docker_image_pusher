@@ -17,3 +17,4 @@ shaarli/shaarli
 xiaoyaliu/alist
 xiaoyaliu/glue
 ddsderek/xiaoya-emd
+talebook/talebook
